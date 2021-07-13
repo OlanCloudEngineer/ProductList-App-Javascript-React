@@ -20,7 +20,7 @@ Build and Run the Application.
 
 Once the application is properly built. You should be able to access the Webpa>
 
-http://localhost:5000](http://localhost:5000) to view it in the browser.
+http://localhost:5000 to view it in the browser.
 
 # Contribution
 
